@@ -104,4 +104,4 @@ The report contains the following Power BI visuals:
 
 ## Licence
 
-**
+*Apache 2.0*
